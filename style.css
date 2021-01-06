@@ -10,3 +10,8 @@ h1{
 .welcome{
     color: orange;
 }
+
+footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
